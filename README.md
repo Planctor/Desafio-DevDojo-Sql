@@ -22,12 +22,10 @@ Tipo | Diretoria | Ano | Jan | Fev | Mar | Abr | Mai | Jun | Jul | Ago | Set | O
 
 Dados Incluídos:
 
-    ✅ Admissões por mês/ano/diretoria
+    ✅ Admissões por mês/ano/diretoria  (Feito)
 
-    ✅ Demissões por mês/ano/diretoria
+    ✅ Demissões por mês/ano/diretoria (Feito)
 
-    ✅ Colaboradores ativos mensais
+    ✅ Colaboradores ativos mensais (Pendente)
 
-    ✅ Dados históricos completos
-
-    ✅ Agrupamento por diretoria
+    ✅ Dados históricos completos (Pendente)
