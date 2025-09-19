@@ -26,6 +26,6 @@ Dados Incluídos:
 
     ✅ Demissões por mês/ano/diretoria (Feito)
 
-    ✅ Colaboradores ativos mensais, até os ultimos 2 anos (Pendente)
+    ✅ Colaboradores ativos mensais, até os ultimos 2 anos (Feito)
 
-    ✅ Dados históricos completos (Pendente)
+    ✅ Dados históricos completos (Feito)
